@@ -49,7 +49,7 @@ def getCity(image_num):
         
 
 def main():
-    for i in range(560, 731):
+    for i in range(1, 731):
         with open("output.txt", 'a', encoding = 'utf-8', ) as f:
             index_length = len(str(i))
             image_number = "000" + str(i) if index_length == 1 else "00" + str(i) if index_length == 2 else "0" + str(i) if index_length == 3 else i
