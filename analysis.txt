@@ -1,0 +1,6 @@
+average NDVI in nature: 0.21828322759462557
+average urban NDVI: 0.013107795020060826
+the lowest NDVI in nature: -0.8973330985629343
+the highest NDVI in nature: 0.9132836233084783
+the lowest urban NDVI: -0.9393876384051567
+the highest urban NDVI: 0.8569254185692542
